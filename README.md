@@ -57,4 +57,33 @@
 <p align="center">
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </p>
+# Student Management System (C++)
 
+A console-based student record management system built with C++ using Object-Oriented Programming principles.
+
+## 📋 Features
+- ✅ Add new student records
+- ✅ View all students
+- ✅ Search students by ID/Roll Number
+- ✅ Update student information
+- ✅ Delete student records
+- ✅ File handling for data persistence
+- ✅ Input validation and error handling
+
+## 🛠️ Technologies Used
+- **Language:** C++
+- **Concepts:** OOP, File I/O, Data Structures
+- **Tools:** Visual Studio Code, Git
+
+## 📁 Project Structure
+
+## 🚀 Getting Started
+
+### Prerequisites
+- C++ Compiler (G++/MinGW)
+- Basic understanding of C++
+
+### Compilation & Execution
+```bash
+g++ -o student_manager src/*.cpp
+./student_manager
