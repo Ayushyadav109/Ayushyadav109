@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ayush Yadav</h1>
-<h3 align="center">🚀 Aspiring Software Developer | C++ & Python Enthusiast | B.Tech Student</h3>
+<h3 align="center">🚀 Aspiring Software Developer | Python Enthusiast & Ai\ML & Data Analysis | B.Tech Student</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-yadav-102a23280/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
